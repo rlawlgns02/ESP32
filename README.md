@@ -5,16 +5,21 @@
 라이브러리를 저장할 디렉토리를 설정하고 이름을 설정
 이름 추천 : 숫자 4 이하로 하는경우에 항목 최상단에 떠서 매우 작업하기에 편함
 001MyLib라는 이름으로 생성했음
+![Image](https://github.com/user-attachments/assets/b4e20849-403e-42fe-a7a8-4c9e4dc9cb47)
 
 라이브러리를 우클릭 한 후 심볼 이름 ESP32로 설정
 
 휠을 통해서 크기를 조절하고 
 
 U라는 알파벳을 보기 좋은 위쪽으로 이동하고 큰 사각형을 사각형그리기를 통해 생성
+![image](https://github.com/user-attachments/assets/1e4dca65-fd60-4aec-9c26-a5158bca0ee1)
 
 핀 그리기 P를 눌러서 핀 생성 이름은 나중에 변경 가능하니 크게 신경 안써도 됨 핀 번호가 중요
+![image](https://github.com/user-attachments/assets/206eef7e-85b1-4227-a95b-92d4e4f3ed34)
 만약 방향이 안맞으면 R 키를 이용해 방향 회전
+
 핀을 올바른 위치에 놓고 나머지 핀들을 전부 배치
+![image](https://github.com/user-attachments/assets/c0134b70-8412-43d8-9ee0-3cbf98d4ee4f)
 
 보기좋게 가운데에 사각형 박스와 ESP32라는 텍스트를 넣음
 
@@ -29,3 +34,5 @@ U라는 알파벳을 보기 좋은 위쪽으로 이동하고 큰 사각형을 �
 풋프린트 편집기 열기
 
 패드 추가를 하고 패드를 더블 클릭 하여 속성 변경
+
+라이브러리 위치를 설정해서 저장한 후 기존 회로도 편집기에 있는 풋 프린트에 만든 풋 프린트로 설정
